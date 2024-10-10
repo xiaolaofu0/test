@@ -1,6 +1,9 @@
 //Wed Jul 03 2024 02:49:20 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
+// cron 11 08,18 * * *
+
+
 const {
     sign,
     getToken,
